@@ -44,3 +44,14 @@ To run this project locally, follow these steps:
    ```sh
    git clone https://github.com/your-username/portfolio.git
    cd portfolio
+ 2.**Install dependencies**:
+
+npm install
+**Run the development server:**
+
+npm run dev
+**Build for production:**
+
+npm run build
+Deployment
+**This portfolio is deployed using Vercel. Follow the instructions on Vercel to deploy your own version.**
