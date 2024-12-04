@@ -45,6 +45,7 @@ To run this project locally, follow these steps:
    git clone https://github.com/your-username/portfolio.git
    cd portfolio
  2.**Install dependencies**:
+![WhatsApp Image 2024-12-04 at 3 38 14 PM](https://github.com/user-attachments/assets/c4cf134d-8371-4473-ba59-1c792a9ce3b4)
 
 npm install
 **Run the development server:**
